@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/mostly_harmless/Library/CloudStorage/OneDrive-个人/桌面/CCC/Problem/P5461"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CEC, symSize: 0x12C }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _excel, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x71, offset: 0x71, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CEC, symSize: 0x12C }
+  - { offsetInCU: 0xDF, offset: 0xDF, size: 0x8, addend: 0x0, symName: _cheat, symObjAddr: 0x12C, symBinAddr: 0x100003E18, symSize: 0x160 }
+...

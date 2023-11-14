@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/Users/mostly_harmless/Library/CloudStorage/OneDrive-个人/桌面/CCC",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-o", "build/.objs/CCC/macosx/arm64/src/main.c.o", "src/main.c"],
+  "file": "src/main.c"
+}]

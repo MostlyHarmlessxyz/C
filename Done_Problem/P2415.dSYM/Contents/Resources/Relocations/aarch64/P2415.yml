@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/mostly_harmless/Library/CloudStorage/OneDrive-个人/桌面/CCC/Problem/P2415"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003BC4, symSize: 0x390 }
+  - { offsetInCU: 0x59, offset: 0x59, size: 0x8, addend: 0x0, symName: _num, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x7B, offset: 0x7B, size: 0x8, addend: 0x0, symName: _s, symBinAddr: 0x10000812C, symSize: 0x0 }
+  - { offsetInCU: 0xA3, offset: 0xA3, size: 0x8, addend: 0x0, symName: _temp, symBinAddr: 0x100008258, symSize: 0x0 }
+  - { offsetInCU: 0xB8, offset: 0xB8, size: 0x8, addend: 0x0, symName: _sum, symBinAddr: 0x1000081B8, symSize: 0x0 }
+  - { offsetInCU: 0xD4, offset: 0xD4, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003BC4, symSize: 0x390 }
+...
